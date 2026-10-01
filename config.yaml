@@ -1,0 +1,24 @@
+seed: 42
+sampling_frequency_hz: 1000
+window_size: 64
+stride: 10
+test_size: 0.20
+validation_size: 0.20
+cv_folds: 5
+epochs: 50
+batch_size: 16
+patience: 8
+learning_rate: 0.001
+class_names:
+  - Crack
+  - Erosion
+  - Healthy
+  - Twist
+data:
+  directory: data
+  files:
+    Crack: Crack1.3.csv
+    Erosion: Erosion1.3.csv
+    Healthy: H1.3.csv
+    Twist: twist1.3.xlsx
+output_directory: outputs

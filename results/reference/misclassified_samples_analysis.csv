@@ -1,0 +1,2 @@
+test_position,global_index,true_label,true_class,pred_label,pred_class,confidence,entropy,nearest_spectral_class,distance_to_true_prototype,distance_to_predicted_prototype,top1_freq_hz,top2_freq_hz,top3_freq_hz,spectral_nearest_matches_prediction,distance_to_Crack,distance_to_Erosion,distance_to_Healthy,distance_to_Twist
+13,132,3,Twist,1,Erosion,0.6224865317344666,0.702729344367981,Twist,0.4620455227283959,0.4732381014060527,218.75,343.75,140.625,False,0.5609419696311009,0.4732381014060527,0.5724746289054161,0.4620455227283959

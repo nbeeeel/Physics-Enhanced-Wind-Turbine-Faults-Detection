@@ -1,0 +1,12 @@
+{
+  "pearson_r_abs_weight_vs_fisher": 0.3384,
+  "pearson_p": 0.05404,
+  "spearman_r_abs_weight_vs_fisher": 0.4586,
+  "spearman_p": 0.007277,
+  "top_k": 10,
+  "top_weight_top_fisher_overlap_count": 5,
+  "top_weight_top_fisher_jaccard": 0.3333,
+  "frequency_resolution_hz": 15.625,
+  "nyquist_frequency_hz": 500.0,
+  "number_of_rfft_bins": 33
+}
